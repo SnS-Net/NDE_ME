@@ -1,6 +1,6 @@
 # NDE_ME - Network Development Environment
 
-### Welcome to the Network Development Environment (NDE_ME)! This repository is designed to facilitate your network development and management tasks, making your life easier with a well-organized structure and helpful resources. Whether you're a network engineer, a developer, or just looking to streamline network operations, NDE_ME has you covered.
+Welcome to the Network Development Environment (NDE_ME)! This repository is designed to facilitate your network development and management tasks, making your life easier with a well-organized structure and helpful resources. Whether you're a network engineer, a developer, or just looking to streamline network operations, NDE_ME has you covered.
 
 Structure
 Here's an overview of the directory structure:
@@ -43,6 +43,8 @@ NDE_ME/
 ├── 📄 .gitignore
 ├── 📄 .gitattributes
 ```
+```bash
+git clone 
 ## Python
 The python/ directory holds Python resources for managing and configuring network devices. Within this directory, you'll find:
 
