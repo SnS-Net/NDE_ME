@@ -43,8 +43,11 @@ NDE_ME/
 ├── 📄 .gitignore
 ├── 📄 .gitattributes
 ```
+
 ```bash
-git clone 
+git clone https://github.com/SnS-Net/NDE_ME/blob/main/create_NDE_ME.sh
+```
+ 
 ## Python
 The python/ directory holds Python resources for managing and configuring network devices. Within this directory, you'll find:
 
