@@ -3,21 +3,6 @@ Network Development Environment
 ```plaintext
 NDE_ME/
 │
-├── ansible/
-│   ├── roles/
-│   │   ├── linux_config/
-│   │   │   ├── tasks/
-│   │   │   ├── templates/
-│   │   │   ├── vars/
-│   │   ├── cisco_config/
-│   │       ├── tasks/
-│   │       ├── templates/
-│   │       ├── vars/
-│   ├── ansible.cfg
-│   ├── inventory/
-│   ├── playbooks/
-│   ├── README.md
-│
 ├── python/
 │   ├── runbooks/
 │   │   ├── linux_config/
@@ -25,6 +10,8 @@ NDE_ME/
 │   ├── templates/
 │   │   ├── linux/
 │   │   ├── cisco/
+│   ├── inventory/
+│   │   ├── inventory.ini
 │   ├── README.md
 │
 ├── bash/
