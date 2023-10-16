@@ -1,5 +1,5 @@
 # NDE_ME - Network Development Environment
-
+> ### **note:** STILL UNDER CONSTRUCTION
 Welcome to the Network Development Environment (NDE_ME)! This repository is designed to facilitate your network development and management tasks, making your life easier with a well-organized structure and helpful resources. Whether you're a network engineer, a developer, or just looking to streamline network operations, NDE_ME has you covered.
 
 Structure
