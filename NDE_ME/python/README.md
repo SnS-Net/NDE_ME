@@ -3,7 +3,9 @@
 Python is an invaluable tool for network administrators and engineers. Whether you're managing routers, switches, or Linux servers, Python can significantly streamline your workflow and help you automate tasks. This README.md file provides an overview of the Python Networking Development Environment (NDE), a structured environment to support your networking tasks.
 
 ## NDE File Structure
+
 The NDE follows a well-organized file structure to make it easy for system administrators and network engineers to work with Python effectively. Here's the directory structure of your Python Networking Development Environment (NDE):
+
 ```plaintext
 NDE_ME/
 │
@@ -18,6 +20,7 @@ NDE_ME/
 │   │   ├── 📋 inventory.ini
 │   ├── 📄 README.md
 ```
+
 Let's break down these components:
 
 1. Python Directory
